@@ -60,5 +60,5 @@ Analisis dilakukan end-to-end mulai dari **EDA, Feature Engineering, Preprocessi
 ## 🚀 How to Run
 ### 1. Clone repository
 ```bash
-git clone https://github.com/username/home-credit-risk.git
+git clone https://github.com/qalbiala/home-credit-risk.git
 cd home-credit-risk
